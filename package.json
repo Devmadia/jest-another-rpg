@@ -1,0 +1,31 @@
+{
+  "name": "jestrpg",
+  "version": "1.0.0",
+  "description": "jest-another-rpg package",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Devmadia/jest-another-rpg.git"
+  },
+  "keywords": [
+    "jest",
+    "rpg",
+    "jest",
+    "another",
+    "rpg",
+    "javascript",
+    "node.js"
+  ],
+  "author": "Devmadia",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Devmadia/jest-another-rpg/issues"
+  },
+  "homepage": "https://github.com/Devmadia/jest-another-rpg#readme",
+  "devDependencies": {
+    "jest": "^26.1.0"
+  }
+}
